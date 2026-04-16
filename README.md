@@ -1,4 +1,9 @@
-### Hi there 👋
+- 🧑‍💻 I'm a polygot programmer. 
+- 🔭 I worked a full stack developer in my last stint.
+- 🌱 I’m currently learning AI.
+- 👯 I’m looking to collaborate on AI related projects.
+- 💬 Ask me about Full stack development.
+- ⚡ Fun fact: I can write with both right and left hand at the same time.
 
 <!--
 **ajaymathur/ajaymathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
